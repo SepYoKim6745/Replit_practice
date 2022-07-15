@@ -1,1 +1,3 @@
-print('Hello World')
+n = ord('a')
+
+print(type(n))
